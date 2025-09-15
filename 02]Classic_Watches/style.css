@@ -175,6 +175,8 @@ main {
         color: #fff;
         font-size: 7vw;
         letter-spacing: 0.5rem;
+        z-index: 6;
+
         span {
           color: black;
           -webkit-text-stroke: 1px #ffa489;

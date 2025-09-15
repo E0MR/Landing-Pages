@@ -6,6 +6,7 @@
 
 :root {
   font-size: 10px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 ::-webkit-scrollbar {
@@ -18,7 +19,6 @@ html,
 body {
   width: 100%;
   min-height: 100vh;
-  font-family: "Times New Roman", Times, serif;
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
